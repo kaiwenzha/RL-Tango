@@ -23,9 +23,9 @@ If you find Tango useful or relevant to your research, please consider citing ou
 
 ```bib
 @article{zha2025rltango,
-  title={RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning},
-  author={Zha, Kaiwen and Gao, Zhengqi and Shen, Maohao and Hong, Zhang-Wei and Boning, Duane S. and Katabi, Dina},
-  journal={arXiv preprint arXiv:2505.15034},
-  year={2025}
+    title={RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning},
+    author={Zha, Kaiwen and Gao, Zhengqi and Shen, Maohao and Hong, Zhang-Wei and Boning, Duane S. and Katabi, Dina},
+    journal={arXiv preprint arXiv:2505.15034},
+    year={2025}
 }
 ```
