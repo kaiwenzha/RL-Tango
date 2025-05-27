@@ -22,9 +22,9 @@ Reinforcement learning (RL) has recently emerged as a compelling approach for en
 If you find Tango useful or relevant to your research, please consider citing our paper:
 
 ```bib
-@article{zha2025rltango,
+@article{zha2025rl,
     title={RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning},
-    author={Zha, Kaiwen and Gao, Zhengqi and Shen, Maohao and Hong, Zhang-Wei and Boning, Duane S. and Katabi, Dina},
+    author={Zha, Kaiwen and Gao, Zhengqi and Shen, Maohao and Hong, Zhang-Wei and Boning, Duane S and Katabi, Dina},
     journal={arXiv preprint arXiv:2505.15034},
     year={2025}
 }
