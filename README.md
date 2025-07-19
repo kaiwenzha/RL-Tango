@@ -81,7 +81,8 @@ ray start --address ${MASTER_NODE_ADDRESS}:6379
 # on the master node, run
 bash scripts/run_sft_data_generation.sh
 # split SFT data into train/test splits
-python data_preprocess/split_parquet.py --input ./data/eurus2_sft_math/llama70b_sft_data_generation.parquet
+python data_preprocess/split_parquet.py \
+    --input ./data/eurus2_sft_math/llama70b_sft_data_generation.parquet
 ```
 
 #### SFT Training
