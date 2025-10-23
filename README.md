@@ -1,7 +1,7 @@
 <div align="center">
-<h2 style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 0;">
+<h1 style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 0;">
   RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning
-</h2>
+</h1>
 </div>
 <p align="center">
   <p align="center">
