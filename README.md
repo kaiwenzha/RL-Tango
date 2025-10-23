@@ -1,15 +1,22 @@
 <div align="center">
-<h1 style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 0;">
+<h2 style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 0;">
   RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning
-</h1>
+</h2>
 </div>
-
-<div align="center" style="font-family: Arial, sans-serif;">
-  <p>
-    <a href="https://arxiv.org/abs/2505.15034" style="text-decoration: none; font-weight: bold;">Paper</a> •
-    <a href="https://github.com/kaiwenzha/rl-tango" style="text-decoration: none; font-weight: bold;">Code</a>
-</div>
-
+<p align="center">
+  <p align="center">
+    <a href="https://people.csail.mit.edu/kzha/">Kaiwen Zha</a><sup>*,1</sup>,
+    <a href="https://zhengqigao.github.io/">Zhengqi Gao</a><sup>*,1</sup>,
+    <a href="https://maohaos2.github.io/Maohao/">Maohao Shen</a><sup>1</sup>,
+    <a href="https://williamd4112.github.io/">Zhang-Wei Hong</a><sup>2</sup>,
+    <a href="https://boning.mit.edu/boning/">Duane S. Boning</a><sup>1</sup>,
+    <a href="https://people.csail.mit.edu/dina/">Dina Katabi</a><sup>1</sup>
+    <br>
+    <sup>1</sup>MIT&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup>MIT-IBM Watson AI Lab
+    <br><b>NeurIPS 2025</b>
+  </p>
+  <h4 align="center"><a href="https://arxiv.org/abs/2505.15034">Paper</a> | <a href="https://github.com/kaiwenzha/rl-tango">Code</a></h4>
+</p>
 
 <div align="center">
 <img src="assets/teaser.png" width="75%">
